@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    margin: 50px auto 0 auto;
+}
+.heading-name{
+    font-family: 'Handlee', cursive;
+    font-size: 5.625rem;
+    color: #6B705C;
+    line-height: 2;
+}
+.profession{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    color: #6B705C;
+    font-weight: normal;
+}
+.pro-grammer{
+    font-family: 'Fira Code', monospace;
+}
+.top-container{
+    background-color: #FFE8D6;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+.round-image,.skill-photo{
+    border-radius: 50%;
+}
+.skill-row{
+    width: 50%;
+    margin-inline: auto;
+    margin-block: 100px;
+    text-align: left;
+    line-height: 2;
+}
+.skill-photo{
+    width: 25%;
+}
+
+.developer{
+    float: left;
+    margin-right: 1rem;
+}
+.designer{
+    float: right;
+    margin-left: 30px;
+}
+.middle-container{
+    background-color: #B7B7A4;
+}
+.greeting{
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    color: #bb7149;
+}
+.greeting-para{
+    font-size: 2rem;
+    color: #bb7149;
+    font-family: 'Fira Code', monospace;
+}
+.skill-desc{
+    font-size: 1.25rem;
+    font-family: 'Fira Code', monospace;
+    color: #bb7149;
+}
+.skill-title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    color: #bb7149;
+}
+.contact-me{
+    background-color: #FFE8D6;
+    color: #6B705C;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 2rem;
+}
+.contact-title{
+    font-size: 2.5rem;
+}
+.contact-desc{
+    font-size: 1.75rem;
+}
+.contact-para{
+    font-size: 1.5rem;
+}
+.btn{
+    border-radius: 2rem;
+    background-color: #6B705C;
+    color:  #FFE8D6;
+    padding: 1rem;
+    text-decoration: unset;
+}
+
+.bottom-container{
+    background-color: #6B705C;
+    padding-block: 2rem;
+}
+.footer-link{
+    text-decoration: unset;
+    color: #FFE8D6;
+    margin: 2rem;
+    font-size: 1.25rem;
+    font-family: 'Poppins', sans-serif;
+}
+.name{
+    color: #FFE8D6;
+    font-family: 'Poppins', sans-serif;
+    margin: 2rem;
+}
+hr{
+    border-width: 1rem;
+    border-color: #DDBEA9;
+    border-style: dotted none none none;
+    width: 20%;
+}
